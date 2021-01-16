@@ -1,4 +1,4 @@
-af27bee397791c7e8246089057e55e9c *DESCRIPTION
+ddfdfcb01821de23e6d70328de155609 *DESCRIPTION
 d0a5b5a89623f0aae7ea6f2dbc87e60a *NAMESPACE
 7eef2279d1b46f2d6ccaa4f0f07dfc01 *R/export_portfolio.R
 968b7039362f5135912edc1a9dec865e *R/ms_10y_category_ret.R
@@ -19,7 +19,7 @@ f0352bda3ade4a45ffefce24006838b6 *R/ms_5ybeta.R
 ca008130edbb1d8944b9b28ac41c8140 *R/ms_expense_ratioo.R
 ffa9ff34883c1788ffdf2770d862a50b *R/ms_fund_cat.R
 0bc4917288807917a220b75b6b899d1d *R/ms_fund_name.R
-599305fd2aac4d418f4549968574a4bd *R/ms_growth_track.R
+e3f20cfe24d7f33753f4d5e2419ea411 *R/ms_growth_track.R
 16c7a7d1ad251a8ccbf9926a5e742173 *R/ms_holdings_turnover.R
 7da0a78aa70cc6635989f209d876fd66 *R/ms_last_close.R
 d0d36045914c4cc1e37fabe9aa23b546 *R/ms_last_div.R
@@ -59,7 +59,7 @@ f853bd7e64d22e697f93a07158dfc243 *man/ms.5yReturn.Rd
 c50f8e6f2131410c97df2b09685a7617 *man/ms.ExpenseRatio.Rd
 086ce6336c80359c3b035200a70d76f4 *man/ms.FundCat.Rd
 75398e00bf63b63d14e8e052804bfa9f *man/ms.FundName.Rd
-53db3b1a77b1270cade412e63b2fc5cc *man/ms.GrowthTrack.Rd
+5688f19991b40cc0eb9faeec986da28e *man/ms.GrowthTrack.Rd
 21e4057d48c6d6ea3dda6da5b41f9775 *man/ms.HoldingsTurnover.Rd
 77f25b36548a3565d608ec130a2b7031 *man/ms.LastClose.Rd
 aa0f8908cffd4c24b4d17749ba7518ae *man/ms.LastDividend.Rd

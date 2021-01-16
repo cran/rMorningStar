@@ -30,5 +30,5 @@ Plots the growth of input amount in a fund
 Plots the cumulative groth of the fund in a mutual fund/ETFs and compares it with the input benchmark.
 }
 \examples{
-ms.GrowthTrack('FXAIX', time_period = 'YTD')
+ms.GrowthTrack('FXAIX', time_period = '3y')
 }

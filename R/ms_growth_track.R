@@ -7,7 +7,7 @@
 #' @return Plots the growth of the investment (Mutua Fund/ETFs) and compares it with provided benchmark
 #' @details Plots the cumulative groth of the fund in a mutual fund/ETFs and compares it with the input benchmark.
 #' @examples
-#' ms.GrowthTrack('FXAIX', time_period = 'YTD')
+#' ms.GrowthTrack('FXAIX', time_period = '3y')
 #' @rdname ms.GrowthTrack
 #' @import quantmod
 #' @importFrom xts merge.xts plot.xts
